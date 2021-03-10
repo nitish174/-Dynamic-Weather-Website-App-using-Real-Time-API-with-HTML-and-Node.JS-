@@ -1,1 +1,1 @@
-# Used open weater global services to get the API for current weather condition of my city.
+# Used open weather global services to get the API for current weather condition of my city and then display it through nodejs.
